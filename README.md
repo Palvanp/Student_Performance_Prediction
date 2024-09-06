@@ -1,1 +1,1 @@
-## Student Performace Predictor
+## Student Performance Predictor
